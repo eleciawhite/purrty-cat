@@ -4,22 +4,22 @@ After 300 episodes, we wanted to throw a party for the listeners of [Embedded](h
 
 This turned out to be a great project because it used many things from the podcast, from early in the show to recent episodes.
 
-![Origami Cat Beauty Shot](https://github.com/eleciawhite/purrty-cat/tree/master/images/PhotoShootCat.JPG "Origami Cat")
+![Origami Cat Beauty Shot](https://github.com/eleciawhite/purrty-cat/blob/tree/master/images/PhotoShootCat.JPG "Origami Cat")
 
 I used an [Adafruit Trinket M0 with CircuitPython](https://learn.adafruit.com/adafruit-trinket-m0-circuitpython-arduino/circuitpython) (which I heard about on [show #295](https://embedded.fm/episodes/295)). This had onboard capacitive sense so I used a length of copper tape as the touch sensor, placed on the paper before I started folding. The purring is generated with a coin cell vibration motor, on a board that Casey helped me layout after listening to [episode #20](https://embedded.fm/episodes/2013/9/25/20soldered-together-by-monkeys). Another listener, Philip Freidin (who was on [#146](https://embedded.fm/episodes/146)) taught me how to do SMT and helped me create several boards.
 
-![Origami Cat in the Window](https://github.com/eleciawhite/purrty-cat/tree/master/images/WindowCat.JPG "Origami Cat in the Window")
+![Origami Cat in the Window](https://github.com/eleciawhite/purrty-cat/blob/tree/master/images/WindowCat.JPG "Origami Cat in the Window")
 
 ## Hardware
 
-![Board schematic](https://github.com/eleciawhite/purrty-cat/tree/master/images/SchematicForMotorBoard.PNG "Schematic for the motor board") shows a diode and a FET and some connectors that would have been useful on another project.
+![Board schematic](https://github.com/eleciawhite/purrty-cat/blob/tree/master/images/SchematicForMotorBoard.PNG "Schematic for the motor board") shows a diode and a FET and some connectors that would have been useful on another project.
 
-![Bottom Gerber](https://github.com/eleciawhite/purrty-cat/tree/master/images/BottomGerrber.PNG "Bottom Gerber")
-![Top Gerber](https://github.com/eleciawhite/purrty-cat/tree/master/images/TopGerber.PNG "Top Gerber")
+![Bottom Gerber](https://github.com/eleciawhite/purrty-cat/blob/tree/master/images/BottomGerrber.PNG "Bottom Gerber")
+![Top Gerber](https://github.com/eleciawhite/purrty-cat/blob/tree/master/images/TopGerber.PNG "Top Gerber")
 
-![Capacitive Sense](https://github.com/eleciawhite/purrty-cat/tree/master/images/CapacitiveSense.jpeg "Capacitve sensing") is on the Trinket M0 board. I could have put in a long wire but the copper tape is most effective in one direction (the adhesive is not as conductive). This was taped on the inside of the cat's belly so that the copper was close to the spine of the cat.
+![Capacitive Sense](https://github.com/eleciawhite/purrty-cat/blob/tree/master/images/CapacitiveSense.jpeg "Capacitve sensing") is on the Trinket M0 board. I could have put in a long wire but the copper tape is most effective in one direction (the adhesive is not as conductive). This was taped on the inside of the cat's belly so that the copper was close to the spine of the cat.
 
-![Belly Electronics](https://github.com/eleciawhite/purrty-cat/tree/master/images/CatBelly2.JPG "Electronics") are hidden in the belly of the cat with the CR2032 battery holder easy to access (and its switch is especially easy to access). Everything is held together with hot glue.
+![Belly Electronics](https://github.com/eleciawhite/purrty-cat/blob/tree/master/images/CatBelly2.JPG "Electronics") are hidden in the belly of the cat with the CR2032 battery holder easy to access (and its switch is especially easy to access). Everything is held together with hot glue.
 
-![Chest Electronics](https://github.com/eleciawhite/purrty-cat/tree/master/images/CatChest2.JPG "Vibe motor electronics") are hiddle in the ruff/check of the cat with the wires snaked down to the belly controller.
+![Chest Electronics](https://github.com/eleciawhite/purrty-cat/blob/tree/master/images/CatChest2.JPG "Vibe motor electronics") are hiddle in the ruff/check of the cat with the wires snaked down to the belly controller.
 
