@@ -12,14 +12,15 @@ I used an [Adafruit Trinket M0 with CircuitPython](https://learn.adafruit.com/ad
 
 ## Hardware
 
-![Board schematic](https://github.com/eleciawhite/purrty-cat/raw/master/images/SchematicForMotorBoard.PNG "Schematic for the motor board") shows a diode and a FET and some connectors that would have been useful on another project.
+![Board schematic](https://github.com/eleciawhite/purrty-cat/raw/master/images/SchematicForMotorBoard.PNG "Schematic") The Schematic for the motor board shows a diode and a FET and some connectors that would have been useful on another project.
 
 ![Bottom Gerber](https://github.com/eleciawhite/purrty-cat/raw/master/images/BottomGerrber.PNG "Bottom Gerber")
 ![Top Gerber](https://github.com/eleciawhite/purrty-cat/raw/master/images/TopGerber.PNG "Top Gerber")
+Thank you Casey!
 
-![Capacitive Sense](https://github.com/eleciawhite/purrty-cat/raw/master/images/CapacitiveSense.jpeg "Capacitve sensing") is on the Trinket M0 board. I could have put in a long wire but the copper tape is most effective in one direction (the adhesive is not as conductive). This was taped on the inside of the cat's belly so that the copper was close to the spine of the cat.
+![Capacitive Sense](https://github.com/eleciawhite/purrty-cat/raw/master/images/CapacitiveSense.jpeg "Capacitve sense") Capacitve sensing is on the Trinket M0 board. I could have put in a long wire but the copper tape is most effective in one direction (the adhesive is not as conductive). This was taped on the inside of the cat's belly so that the copper was close to the spine of the cat.
 
-![Belly Electronics](https://github.com/eleciawhite/purrty-cat/raw/master/images/CatBelly2.JPG "Electronics") are hidden in the belly of the cat with the CR2032 battery holder easy to access (and its switch is especially easy to access). Everything is held together with hot glue.
+![Belly Electronics](https://github.com/eleciawhite/purrty-cat/raw/master/images/CatBelly2.JPG "Electronics") Electronics are hidden in the belly of the cat with the CR2032 battery holder easy to access (and its switch is especially easy to access). Everything is held together with hot glue.
 
-![Chest Electronics](https://github.com/eleciawhite/purrty-cat/raw/master/images/CatChest2.JPG "Vibe motor electronics") are hiddle in the ruff/check of the cat with the wires snaked down to the belly controller.
+![Chest Electronics](https://github.com/eleciawhite/purrty-cat/raw/master/images/CatChest2.JPG "Vibe motor electronics") Vibe motor electronics are hiddle in the ruff/chest of the cat with the wires snaked down to the belly controller.
 
