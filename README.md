@@ -8,7 +8,8 @@ This turned out to be a great project because it used many things from the podca
 
 I used an [Adafruit Trinket M0 with CircuitPython](https://learn.adafruit.com/adafruit-trinket-m0-circuitpython-arduino/circuitpython) (which I heard about on [show #295](https://embedded.fm/episodes/295)). This had onboard capacitive sense so I used a length of copper tape as the touch sensor, placed on the paper before I started folding. The purring is generated with a coin cell vibration motor, on a board that Casey helped me layout after listening to [episode #20](https://embedded.fm/episodes/2013/9/25/20soldered-together-by-monkeys). Another listener, Philip Freidin (who was on [#146](https://embedded.fm/episodes/146)) taught me how to do SMT and helped me create several boards.
 
-![Origami Cat in the Window](https://github.com/eleciawhite/purrty-cat/raw/master/images/WindowCat.jpeg "Origami Cat in the Window")
+![Origami Cat in the Window](https://github.com/eleciawhite/purrty-cat/raw/master/images/WindowCat.jpeg  "Origami Cat in the Window")
+This was folded with a slightly modified version of the one in ![John Montroll's Teach Yourself Origami](https://www.amazon.com/Teach-Yourself-Origami-Revised-Papercraft/dp/0486483630). 
 
 ## Hardware
 
